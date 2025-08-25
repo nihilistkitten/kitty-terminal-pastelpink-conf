@@ -1,0 +1,49 @@
+background_opacity 0.3
+background      #1f1f1f
+foreground      #ff88c7 
+#alt background #41104d
+
+font_family      JetBrains Mono
+bold_font        auto 
+italic_font      auto
+bold_italic_font auto
+
+selection_background       #ff88c7
+selection_foreground       #1e051c       
+cursor                     #ff008c
+url_color                  #40e0d1 
+   
+
+# terminal colors
+
+#black
+color0                      #000000
+color8                      #ff7bdc
+
+#red
+color1                      #ff50a2
+color9                      #ffabd5
+
+#green
+color2                      #ff7fce
+color10                     #f893f3
+
+#yellow
+color3                      #d6fff7 
+color11                     #ebb9f7
+
+#blue
+color4                      #fb7ac8
+color12                     #ffb4dd
+
+#magenta
+color5                      #ff2194
+color13                     #ffe9be
+
+#cyan
+color6                      #fc3e9d
+color14                     #e0c2ff
+
+#white
+color7                      #fdbaff
+color15                     #ffffff
